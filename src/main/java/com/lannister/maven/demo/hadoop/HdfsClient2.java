@@ -1,4 +1,4 @@
-package com.lannister.java.demo.hadoop;
+package com.lannister.maven.demo.hadoop;
 
 import java.io.File;
 import java.io.FileInputStream;
